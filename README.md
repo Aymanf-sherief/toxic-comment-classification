@@ -6,7 +6,7 @@
 
 #### 1- Download the dataset and extract `train.csv` to the root directory
 
-#### 2- run `make_model.py` which should create 3 files: `dense.h5`, `tfidf.pickle`, and `lavels.pickle`
+#### 2- run `make_model.py` which should create 3 files: `dense.h5`, `tfidf.pickle`, and `labels.pickle`
 
 #### 3- run flask app using 
 ```
