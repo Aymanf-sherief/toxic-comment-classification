@@ -1,4 +1,4 @@
-# toxic-comment-classification
+# Toxic comment classification
 
 ### using The [Toxic Comment Classification Dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
